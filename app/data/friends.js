@@ -1,8 +1,8 @@
 // Data structure that will store the friends data
 var friendsArray = [
 	{
-		name: 'Scooter',
-		photo: 'http://cdn3-www.dogtime.com/assets/uploads/gallery/30-impossibly-cute-puppies/impossibly-cute-puppy-15.jpg',
+		name: 'Bamtman',
+		photo: 'https://i1.wp.com/batman-news.com/wp-content/uploads/2017/08/Ben-Affleck-Batman-Justice-League.jpg?w=1392&quality=80&strip=info&ssl=1',
 		scores: [
 			'1',
 			'5',
@@ -17,8 +17,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Fluffy',
-		photo: 'https://i.ytimg.com/vi/mRf3-JkwqfU/hqdefault.jpg',
+		name: 'Wonder Woman',
+		photo: 'https://cdn.psychologytoday.com/sites/default/files/styles/image-article_inline_full/public/field_blog_entry_images/2017-06/screen_shot_2017-06-16_at_8.12.22_am.png?itok=DpMDAm4C',
 		scores: [
 			'2',
 			'4',
@@ -33,8 +33,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Spencer',
-		photo: 'http://cdn3-www.cattime.com/assets/uploads/2011/08/best-kitten-names-1.jpg',
+		name: 'Aquaman',
+		photo: 'https://heroichollywood.com/wp-content/uploads/2018/11/Aquaman_DC_Comics_Banner_Home.jpg',
 		scores: [
 			'4',
 			'3',
@@ -49,8 +49,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Zackariah',
-		photo: 'https://pbs.twimg.com/profile_images/562466745340817408/_nIu8KHX.jpeg',
+		name: 'Green Arrow',
+		photo: 'https://pmcdeadline2.files.wordpress.com/2018/03/arrow.png?w=446&h=299&crop=1',
 		scores: [
 			'5',
 			'1',
@@ -97,7 +97,7 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Beyonce Knowles',
+		name: 'Beyonce',
 		photo: 'http://www.billboard.com/files/styles/article_main_image/public/media/beyonce-feb-2014-billboard-650.jpg',
 		scores: [
 			'5',
@@ -113,7 +113,7 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Adele Adkins',
+		name: 'Adele',
 		photo: 'https://i1.imgiz.com/data/videoshots/6829/6829475-6461.jpg',
 		scores: [
 			'5',
