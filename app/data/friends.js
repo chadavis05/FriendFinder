@@ -1,7 +1,7 @@
 // Data structure that will store the friends data
 var friendsArray = [
 	{
-		name: 'Bamtman',
+		name: 'Batman',
 		photo: 'https://i1.wp.com/batman-news.com/wp-content/uploads/2017/08/Ben-Affleck-Batman-Justice-League.jpg?w=1392&quality=80&strip=info&ssl=1',
 		scores: [
 			'1',
